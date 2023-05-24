@@ -47,7 +47,7 @@ public class File1 {
     }
     
     void printFebbraio(Scanner in){
-      System.out.println("Gennaio");
+      System.out.println("Febbraio");
     }
     
     void printMarzo(Scanner in){
