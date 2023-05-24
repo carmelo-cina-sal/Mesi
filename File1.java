@@ -26,7 +26,7 @@ public class File1 {
                 break;
         case 8: f1.printGennaio(in); 
                 break;
-        case 9: f1.printGennaio(in); 
+        case 9: f1.printSettembre(in); 
                 break;
         case 10: f1.printGennaio(in); 
                 break;
