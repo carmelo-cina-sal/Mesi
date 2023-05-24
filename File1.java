@@ -47,7 +47,7 @@ public class File1 {
     }
     
     void printFebbraio(Scanner in){
-      //Inserire il codice qui
+      System.out.println("Gennaio");
     }
     
     void printMarzo(Scanner in){
